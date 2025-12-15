@@ -7,3 +7,5 @@ Example entry:
 - octocat
 
 Add your own entry below this comment and open a pull request via the instructions in `tasks/01-add-yourself.md`.
+
+- februarysea
